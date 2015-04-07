@@ -1,4 +1,4 @@
-﻿Hikari no  Valusia ~What a Beautiful Hopes~
+﻿Hikari no Valusia ~What a Beautiful Hopes~
 Валусия, Сиющая белизной ~Как Прекрасны Надежды~
 Разработчик	(c) 2006 Liar-Soft
 Перевод		(с) 2012 Yaoi.desu
@@ -44,7 +44,7 @@ http://code.google.com/p/hikari-no-valusia-ru
 	Видео						800x600x32bits
 	DirectX   					8.1 or higher
 	Место на диске				~2.6GB
-	
+
 Управление:
 
 	Выбор/продолжить чтение			левый щелчок мышью, пробел, Enter
